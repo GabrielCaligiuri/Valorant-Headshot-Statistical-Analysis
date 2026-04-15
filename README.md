@@ -7,5 +7,7 @@ To recreate these tests I've provided the cleaned dataset. Raw data including le
 
 All statistical analysis was conducted using unweighted match data. A weighted approach was considered as an earlier approach but excluded as it did not provide any additional value for comparing distributions of the populations.
 
+For a detailed breakdown of the analysis, refer to the project summary or explore the individual phase folders for in-depth methodology and results.
+
 # Findings
 No statistically significant difference was found between weekday and weekend headshot percentages, even after increasing sample size to achieve 80% statistical power.
